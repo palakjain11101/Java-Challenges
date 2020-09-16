@@ -21,7 +21,7 @@ public class Main{
 		}
 
 		administrators.printUsernames();
-	    int index = (administrators.getUsers().size() - 1);
+	   	int index = (administrators.getUsers().size() - 1);
 		administrators.getUsers().get(index).setUserType("User");
 		
 
