@@ -14,4 +14,4 @@ Lab 7 - Scope and Debugging <br />
 Lab 8 - Method Overloading, Interfaces and Class Hierarchy <br />
 Lab 9 - Handling Files <br />
 
-SPT.java and SPTTest.java are the implementation and testing of the Dijkstra Algorithm.
+SPT.java and SPTTest.java are the implementation and Unit testing of the Dijkstra Algorithm.
