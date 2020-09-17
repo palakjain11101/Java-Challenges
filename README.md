@@ -1,6 +1,6 @@
 # Java-Challenges
 
-Weekly Java challenges completed in the Programming 1, Year 1 module <br />
+Weekly Java challenges completed in the Programming 1, Year 1 module. <br />
 
 Here are the areas covered in each lab: <br />
 
